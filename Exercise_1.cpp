@@ -1,3 +1,8 @@
+// Time Complexity: O(m * n) where m is the number of rows and n is the number of columns in the image
+// Space Complexity: O(m * n) for the stack space used in DFS
+// Were you able to solve the problem? Yes
+// Did you face any challenges while solving the problem? No
+
 class Solution {
 public:
     vector<pair<int, int>> dirs;
